@@ -50,7 +50,7 @@ Healerble은 건강이라는 health와 이용자에게 맞춤형 정보를 제�
 ### 좋아요 기능
 - 로그인한 사용자는 게시글에 좋아요를 누를 수 있음
 ## ERD
-![erd_Healerble](https://github.com/user-attachments/assets/668c28c5-ac33-4cbd-bfd3-5c350393f8a4)
+![erd_Healerble](https://github.com/user-attachments/assets/0a093c74-f647-4088-af08-b6a070758315)
 ## Tech Stack
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
