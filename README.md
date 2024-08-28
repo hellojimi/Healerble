@@ -8,7 +8,7 @@ Healerble은 건강이라는 health와 이용자에게 맞춤형 정보를 제�
 ### 회원 기능
 - 회원가입
   - 이메일(아이디), 비밀번호, 닉네임을 입력받음
-    - 아이디는 unique 해야하며, 회원가입시 일반적으로 USER(일반 사용자) 권한을 가짐
+    - 아이디는 unique 해야하며, 회원가입시 일반적으로 USER(일반 사용자) 권한을 가짐 
     - 비밀번호는 영문 대소문자, 숫자, 특수문자를 포함한 8~20자로 구성
     - 닉네임은 2~10자이며, 특수문자를 제외한 한글, 알파벳 대소문자, 숫자로 구성
   - 아이디 및 닉네임 중복 확인
@@ -50,7 +50,7 @@ Healerble은 건강이라는 health와 이용자에게 맞춤형 정보를 제�
 ### 좋아요 기능
 - 로그인한 사용자는 게시글에 좋아요를 누를 수 있음
 ## ERD
-![erd_Healerble](https://github.com/user-attachments/assets/668c28c5-ac33-4cbd-bfd3-5c350393f8a4)
+![erd_Healerble](https://github.com/user-attachments/assets/0a093c74-f647-4088-af08-b6a070758315)
 ## Tech Stack
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
